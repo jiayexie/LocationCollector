@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">LocationCollector</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_export">Export</string>
+    <string name="menu_locate_me">Locate Me</string>
+    <string name="menu_sort">Sort</string>
+    <string name="title_activity_building_list">Building List</string>
+    <string name="title_dialog_add_building">Add new building: </string>
+    <string name="title_dialog_edit_building">Edit building name:</string>
+    <string name="title_activity_locate_me">Locate Me</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="latitude">latitude: </string>
+    <string name="longitude">Longitude: </string>
+    <string name="invalid_param">Invalid building ID.</string>
+    <string name="update_location_network">Update location by network</string>
+    <string name="update_location_gps">Update location by GPS</string>
+    <string name="stop_update">Stop updating</string>
+    <string name="export_failed">Export failed.</string>
+    <string name="exported_to_">Exported to %s</string>
+    <string name="confirm_delete_">Delete buiding %s?</string>
+    <string name="my_location">My location:</string>
+    <string name="matching_buildings">Matching buildings:</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    
+    <string-array name="action_items">
+        <item>@string/action_edit</item>
+        <item>@string/action_delete</item>
+    </string-array>
+
+</resources>
